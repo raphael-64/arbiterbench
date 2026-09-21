@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "ArbiterBench: a benchmark of agent-judge failures on agent trajectories"
+message: "If you use ArbiterBench, please cite it."
+type: dataset
+authors:
+  - family-names: Lee
+    given-names: Raphael
+version: 0.1.0
+date-released: 2026-09-20
+url: "https://heuristic.build/blog/arbiterbench/"
